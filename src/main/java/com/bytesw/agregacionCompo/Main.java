@@ -7,7 +7,7 @@ public class Main {
         Bateria bateria = new Bateria(2200,"Generica");
         SmarthPhone smarthPhone = new SmarthPhone("Samsung",bateria);
 
-        Chip chip = new Chip("Claro","957242941");
+        Chip chip = new Chip("ClaroNuevo","957242941");
         Chip chip2 = new Chip("Movistar2","958563254");
         Chip chip3 = new Chip("Claro2","968536215");
 
