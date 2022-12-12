@@ -8,8 +8,8 @@ public class Main {
         SmarthPhone smarthPhone = new SmarthPhone("Samsung",bateria);
 
         Chip chip = new Chip("Claro","957242941");
-        Chip chip2 = new Chip("Movistar","958563254");
-        Chip chip3 = new Chip("Claro","968536215");
+        Chip chip2 = new Chip("Movistar2","958563254");
+        Chip chip3 = new Chip("Claro2","968536215");
 
         smarthPhone.agregarChip(chip);
         smarthPhone.agregarChip(chip2);
